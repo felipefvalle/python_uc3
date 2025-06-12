@@ -1,0 +1,10 @@
+Este é um exemplo de arquivo criado com Python.
+Adicionando uma linha de conteúdo no arquivo 
+Adicionando mais uma linha no arquivo 
+12345
+6789
+Progamação em Python - 2025 
+Olá Mundo!
+onze de junho de dois mil e vince e cinco
+dezenove e cinquenta e cinco
+Felipe Valle
